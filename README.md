@@ -1,10 +1,11 @@
 # Project Template
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Redy1908_Applicativo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Redy1908_Applicativo)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Redy1908_Applicativo&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Redy1908_Applicativo)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Redy1908_Applicativo&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Redy1908_Applicativo)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Redy1908_Applicativo&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Redy1908_Applicativo)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Redy1908_Applicativo&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Redy1908_Applicativo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=alert_status)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=coverage)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=bugs)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=code_smells)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
+
 
 > **Important:** After forking this repository, you **must** edit this `README.md` file. Replace all instances of `Redy1908_Applicativo` in the above links with  `YourGithHubUsername_Applicativo`. Once you have done this, and followed the setup instructions below, you can delete this note and the instructions.
 
