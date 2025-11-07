@@ -15,6 +15,7 @@ public class Home {
         frameHome.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frameHome.pack();
         frameHome.setVisible(true);
+        
 
     }
 
