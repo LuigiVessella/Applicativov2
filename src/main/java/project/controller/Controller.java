@@ -38,6 +38,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class Controller {
 
+	
 	private Studente s;
 	private Insegnante i;
 	private Corso c;
