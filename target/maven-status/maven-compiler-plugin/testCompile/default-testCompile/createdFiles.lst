@@ -1,6 +1,0 @@
-project\arch\BestPracticesTest.class
-project\arch\CyclicDependencyTest.class
-project\arch\ExceptionHierarchyTest.class
-project\arch\LayeredArchitectureTest.class
-project\arch\MetricsRunner.class
-project\arch\LayerContainmentTest.class
