@@ -37,12 +37,25 @@
 		    <version>2.0.6</version>
 		    <scope>test</scope>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+		<!-- https://mvnrepository.com/artifact/com.toedter/jcalendar -->
+<dependency>
+    <groupId>com.toedter</groupId>
+    <artifactId>jcalendar</artifactId>
+    <version>1.4</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.jgoodies/jgoodies-forms -->
+<dependency>
+    <groupId>com.jgoodies</groupId>
+    <artifactId>jgoodies-forms</artifactId>
+    <version>1.8.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
     <version>42.2.24</version>
 </dependency>
+
 
     </dependencies>
 
@@ -87,5 +100,3 @@
         </plugins>
     </build>
 </project>
- 
-
